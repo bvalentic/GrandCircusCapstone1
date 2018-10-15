@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\bin\Debug\GrandCircusWeek1Capstone.exe.config
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\bin\Debug\GrandCircusWeek1Capstone.exe
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\bin\Debug\GrandCircusWeek1Capstone.pdb
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\obj\Debug\GrandCircusWeek1Capstone.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\obj\Debug\GrandCircusWeek1Capstone.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\obj\Debug\GrandCircusWeek1Capstone.exe
+C:\Users\bvalentic\source\repos\GrandCircusWeek1Capstone\GrandCircusWeek1Capstone\obj\Debug\GrandCircusWeek1Capstone.pdb
